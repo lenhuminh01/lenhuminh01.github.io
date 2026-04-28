@@ -46,5 +46,5 @@ The study explored how environmental values, intrinsic and extrinsic rewards, an
 
 ## Outcome
 
-**Grade: 8.5 / 10 (A)**  
+**Grade: 8.5 / 10 (A grade)**  
 Supervised by **Dr. Le Trung Thanh**
