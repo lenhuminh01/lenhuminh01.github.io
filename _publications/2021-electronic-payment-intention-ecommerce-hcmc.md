@@ -16,7 +16,6 @@ The study focused on adoption barriers and trust drivers in digital payment beha
 
 ## My Role
 
-- Core team member with major contributions to **Chapter 1, Chapter 4, and Chapter 5**  
 - Supported research framing, problem definition, and literature review  
 - Contributed to results interpretation and managerial recommendations  
 - Participated in data analysis discussion and final report development
