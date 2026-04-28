@@ -65,6 +65,6 @@ The study suggests Vietnamese firms should:
 
 ## Outcome
 
-- Completed under supervision of **ThS. Lê Sơn Đại**  
-- Strengthened applied research capability in **strategy, finance, and sustainability**
-- Advanced practical experience using **SEM / CFA / EFA** for business research
+- **University Representative Project** – Foreign Trade University at Eureka Research Competition (2022)
+
+Completed under supervision of **ThS. Lê Sơn Đại** with advanced research methods, practical experience using **SEM / CFA / EFA** in business context
