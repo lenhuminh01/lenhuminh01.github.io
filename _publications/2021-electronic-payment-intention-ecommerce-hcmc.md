@@ -70,4 +70,4 @@ Six core factors influenced electronic payment intention:
 - **Encouragement Prize** – Foreign Trade University Student Research Competition (2021)  
 - **Encouragement Prize** – Econometrics & Application Competition (2021)
 
-Supervised by **Dr. Nguyen Thi Phuong Chi**
+Supervised by **Ph.D. Nguyen Thi Phuong Chi**
