@@ -67,4 +67,4 @@ The study suggests Vietnamese firms should:
 
 - **University Representative Project** – Foreign Trade University at Eureka Research Competition (2022)
 
-Completed under supervision of **ThS. Lê Sơn Đại** with advanced research methods, practical experience using **SEM / CFA / EFA** in business context
+Completed under supervision of **M.Sc. Lê Sơn Đại** with advanced research methods, practical experience using **SEM / CFA / EFA** in business context
