@@ -4,7 +4,7 @@ collection: portfolio
 category: leadership
 permalink: /portfolio/rcs-leadership-event/
 excerpt: "Led a 4-person core team to deliver a campus event under extreme time constraints during academic exam period."
-date: 2023-06-01
+date: 2020-04
 venue: "Student Organization Project"
 ---
 
