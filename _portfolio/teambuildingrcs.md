@@ -11,12 +11,8 @@ venue: "Student Organization Project"
 ## Context
 Led a student team responsible for organizing a campus event that was approved at the last stage, leaving significantly reduced preparation time under academic exam constraints.
 
----
-
 ## Problem
 Project execution was constrained by limited preparation time, reduced team availability due to exams, and smaller-than-ideal core team size compared to standard execution structure.
-
----
 
 ## Actions
 - Established structured project plan with clear work breakdown and ownership allocation
@@ -24,13 +20,9 @@ Project execution was constrained by limited preparation time, reduced team avai
 - Coordinated team members operating under academic pressure
 - Prioritized critical deliverables to ensure minimum viable event execution qualitY
 
----
-
 ## Outcome
 - While some execution aspects (e.g., venue setup and event documentation) were constrained due to limited time and resources, the core objectives of the event were successfully delivered, ensuring positive participant engagement and completion of planned activities.
 - Maintained team coordination despite overlapping academic priorities
-
----
 
 ## Key Insight
 Execution success under constraints depends more on alignment, prioritization, and cadence of communication than on team size or ideal resource conditions.
