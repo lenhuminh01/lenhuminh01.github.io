@@ -7,6 +7,12 @@ excerpt: "E-commerce product launch generating $300K+ revenue, followed by EU ma
 venue: "E-commerce / International Expansion Project"
 ---
 
+![Neoprene Kettlebell](/images/neoprenekettlebell.jpg)  
+
+## Product Reference
+
+[View Product Listing](https://www.amazon.de/dp/B0BYP2M4TK)
+
 ## Context
 Launched a kettlebell product in a competitive fitness e-commerce category, later expanding distribution into EU markets.
 
